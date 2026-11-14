@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "version": "0.2.12",
+  "notes": "Novo ambiente: Telegram, com conversas privadas, grupos, respostas e o visual do app nos temas claro e escuro.",
+  "publishedAt": "2026-11-14T03:13:13.765Z",
+  "web": {
+    "url": "https://mvinciusr78-lab.github.io/chat-studio-atualizacoes/android/web-0.2.12.zip",
+    "sha256": "caaced730848e5db7d148c5fe0acf12ff4471b8e8146dfe0cf9f405bb54e3723",
+    "size": 1182984,
+    "nativeFingerprint": "8a2fc839f8a9",
+    "signature": "un5+Hv8EoBzOSeVyGMNFxHdTqcGl2p1FuRPC8MJL58LGY0u2XB2gzbs/NkVvapkA4ESABmMxjlaVDur3trNdDA=="
+  },
+  "bundles": [
+    {
+      "nativeFingerprint": "7718db340b31",
+      "signature": "ze6OdBuJ44dO8pxqc0LKLfwn3DY54lVhhlXLbM++VspWNwti7MmFnqedgJfzDXqcIjgVyIF3wI59IVMRlBbGBQ=="
+    },
+    {
+      "nativeFingerprint": "8a2fc839f8a9",
+      "signature": "un5+Hv8EoBzOSeVyGMNFxHdTqcGl2p1FuRPC8MJL58LGY0u2XB2gzbs/NkVvapkA4ESABmMxjlaVDur3trNdDA=="
+    }
+  ],
+  "apk": {
+    "url": "https://mvinciusr78-lab.github.io/chat-studio-atualizacoes/android/chat-studio-0.2.12.apk",
+    "sha256": "fb27414be6e42d5fbea91483f70a1e221b374e3655b2a80b9b814f627db581d5",
+    "size": 14257723,
+    "versionCode": 2012,
+    "nativeFingerprint": "7718db340b31",
+    "signature": "aUDmSbz0IrcbocmwZQuH5Z2HLEwvFtLHTb9NHpoFxlcFUT8/ds1Qi25lJh+S+NDFcKikbRQ5OlL0b2YuRoIiBw=="
+  }
+}

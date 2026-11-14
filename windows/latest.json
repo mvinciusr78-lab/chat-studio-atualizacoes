@@ -1,0 +1,11 @@
+{
+  "version": "0.2.12",
+  "notes": "Novo ambiente: Telegram, com conversas privadas, grupos, respostas e o visual do app nos temas claro e escuro.",
+  "pub_date": "2026-11-14T03:13:13.765Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXNBMHUwdWJ5a0VWK1YwZGxzTktmSFVPcWZDYzlnYmk2SWY1SUhOZlk2d1VJcHlibUJEclhYN2ZUUkZRY0Nhd1NUSXJDRjV1UzZQNkpBUUtWUDZudUloZkV2NnBwb2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI1NzYwCWZpbGU6Q2hhdCBTdHVkaW9fMC4yLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTIKMytDQlQrZmkzSkFoNHJXMEE1ZFlvendISCtsOEZLT0UwZ1dzeldPWExkVE0zbGYrbzhwL2JyRFd6eFlrWkRBeDU1VE56QW5FWGEyVHhDOGJWMVRHQUE9PQo=",
+      "url": "https://mvinciusr78-lab.github.io/chat-studio-atualizacoes/windows/Chat-Studio_0.2.12_x64-setup.exe"
+    }
+  }
+}
